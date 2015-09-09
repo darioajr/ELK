@@ -1,7 +1,7 @@
 # ELK settings to monitor Fortigate Logs
 ==============================================
 
-![](https://github.com/darioajr/ELK/fortigate-logging-flow-elasticsearch.png)
+![](https://github.com/darioajr/ELK/blob/master/fortigate-logging-flow-elasticsearch.png)
 
 ## Tools
 ---------------------------------------
