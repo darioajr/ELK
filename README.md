@@ -76,7 +76,7 @@ If I spend a bit more time I could probably combine a few more of the patterns i
 
 ### References
 --------------------------------------
-* [Labs: ?Designing filters for ELK] (http://www.scip.ch/en/?labs.20141023)
+* [Labs: Designing filters for ELK] (http://www.scip.ch/en/?labs.20141023)
 * [Conetix Network Operations Centre Build Part 3 - Metrics and Monitoring] (https://www.conetix.com.au/blog/conetix-network-operations-centre-build-part-3)
 * [Fortigate 300C logstash log parsing] (https://gist.github.com/tolleiv/bf96d3971b661e265868)
 * [Fortigate FortiOS 5.2 (and 5.2.2) Logstash Grok patterns] (https://gist.github.com/timbutler/ecab50967075b150d47b)
